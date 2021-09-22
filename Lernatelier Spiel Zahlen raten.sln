@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31605.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lernatelier Spiel Zahlen raten", "Lernatelier Spiel Zahlen raten.csproj", "{CE44879C-5609-4C41-9756-5432313B45A7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Well idk seems legit", "..\Well idk seems legit\Well idk seems legit.csproj", "{19221DCD-753F-4DC2-8FE4-963BD7997E4F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Arrays_LA319_6911_Aufgabe", "..\Arrays_LA319_6911_Aufgabe\Arrays_LA319_6911_Aufgabe.csproj", "{CFFCC3AA-8FC8-4D1A-B1E8-22AEC86EC56B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Arrays_LA319_6911_Lösungen", "..\Arrays_LA319_6911_Lösungen\Arrays_LA319_6911_Lösungen.csproj", "{39087C0E-C3C5-4065-9CE8-9EB89B38155C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lernatelier Spiel Ausprobieren", "..\Lernatelier Spiel Ausprobieren\Lernatelier Spiel Ausprobieren.csproj", "{21F4ACE2-2D76-4CBD-9490-BC37B8F552F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Konvetionen_319_Aufgabe 4", "..\Konvetionen_319_Aufgabe 4\Konvetionen_319_Aufgabe 4.csproj", "{6C17A066-5C6A-4409-8D79-7896D95799B9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE44879C-5609-4C41-9756-5432313B45A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE44879C-5609-4C41-9756-5432313B45A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE44879C-5609-4C41-9756-5432313B45A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE44879C-5609-4C41-9756-5432313B45A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19221DCD-753F-4DC2-8FE4-963BD7997E4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19221DCD-753F-4DC2-8FE4-963BD7997E4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19221DCD-753F-4DC2-8FE4-963BD7997E4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19221DCD-753F-4DC2-8FE4-963BD7997E4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFFCC3AA-8FC8-4D1A-B1E8-22AEC86EC56B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFFCC3AA-8FC8-4D1A-B1E8-22AEC86EC56B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFFCC3AA-8FC8-4D1A-B1E8-22AEC86EC56B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFFCC3AA-8FC8-4D1A-B1E8-22AEC86EC56B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39087C0E-C3C5-4065-9CE8-9EB89B38155C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39087C0E-C3C5-4065-9CE8-9EB89B38155C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39087C0E-C3C5-4065-9CE8-9EB89B38155C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39087C0E-C3C5-4065-9CE8-9EB89B38155C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21F4ACE2-2D76-4CBD-9490-BC37B8F552F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21F4ACE2-2D76-4CBD-9490-BC37B8F552F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21F4ACE2-2D76-4CBD-9490-BC37B8F552F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21F4ACE2-2D76-4CBD-9490-BC37B8F552F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C17A066-5C6A-4409-8D79-7896D95799B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C17A066-5C6A-4409-8D79-7896D95799B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C17A066-5C6A-4409-8D79-7896D95799B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C17A066-5C6A-4409-8D79-7896D95799B9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0DD182DC-613C-47CE-959A-7294F5BCB926}
+	EndGlobalSection
+EndGlobal
