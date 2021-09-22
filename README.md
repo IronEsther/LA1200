@@ -1,4 +1,4 @@
-# LA1200_niklaus
+# LA1200_Niklaus
 
 #Einführung
 
@@ -66,7 +66,8 @@ while (!(userguess=randomnumber))
 #Video
 Hier zeige ich ein Video vom Durchlauf vom meinem Spiel:
 
-https://youtu.be/YvBJP5Vk1Ps
+<a href="https://youtu.be/YvBJP5Vk1Ps" title="Video Spiel"><img src="{image-url}" alt="Video Spiel" /></a>
+
 
 #Verifikation
 
