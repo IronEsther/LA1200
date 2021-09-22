@@ -44,7 +44,7 @@ catch
   Enviroment.Exit(0);
 }
 ```
-Mit `catch` fängt das Programm den Fehler langsam auf und meldet den Fehler dem Benutzer.
+Mit `catch` fängt das Programm den Fehler sanft auf und meldet den Fehler dem Benutzer.
 
 
 
