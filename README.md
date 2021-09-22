@@ -12,11 +12,13 @@ Da ich in meinem Zahleratespiel Mühe mit `try` `catch` hatte, werde ich Ihnen e
 
 
 #Vorteil von `try` `catch`:
+
 Mit `try``catch` fängt das Programm den Fehler der Benutzereingabe sanft auf. 
 
 
-Für was benutzt man `try``catch`?
-Mit `try``catch` wird...
+Für was benutzt man `try` `catch`?
+
+Mit `try` `catch` wird...
   - ...ein Code-Block ausprobiert (`try`), ob er ohne Laufzeitfehler funktioniert.
   - ...ein Fehler - wenn er passiert - ausgeworfen (`throw`).
   - Wird ein Fehler aufgeworfen, versuchen wir, ihn zu fangen (`catch`).
@@ -47,16 +49,18 @@ Mit `catch` fängt das Programm den Fehler langsam auf und meldet den Fehler dem
 
 Hier zeige ich Ihnen eine `try` `catch`-Schleife von meinem Game:
 ```csharp
-try
+while (!(userguess=randomnumber))
 {
-  Console.WriteLine("Please write a number between 1 and 100.");
-  int userinput = int.Parse(Console.ReadLine());
+     try
+      {
+        Console.WriteLine("Please write a number between 1 and 100.");
+        int userguess = int.Parse(Console.ReadLine());
+      }
+      catch
+      {
+        Console.WriteLine("Please write a number between 1 and 100.");
+      }
 }
-catch
-{
-   Console.WriteLine("Please write a number between 1 and 100!");
-}
-
 ```
 
 #Verifikation
@@ -67,4 +71,9 @@ Ziel 3: Im Code nach den Zielen wird ein Code gezeigt, der erklärt, wie man den
 
 #Reflexion
 
-Ich habe mich während der Arbeit sehr viel mal von anderen Mitschülern ablenken lassen und konnte mich deswegen
+Ich habe mich während der Arbeit sehr viel mal von anderen Mitschülern ablenken lassen und konnte deswegen nicht so gut vorankommen. 
+Dazu wusste ich nicht, wie mit dem Projekt anzufangen und habe deswegen ungefähr eine halbe Stunde vertrödelt.
+
+Verbesserungsvorschlag:
+- Nächstes Mal soll ich am Anfang der Stunde eine To-Do-Liste erstellen, damit ich sofort arbeiten kann und nicht lange überlegen muss.
+- Ich soll mich nächstes Mal nicht von den Mitschüler ablenken lassen, indem ich ihnen sage, dass ich mich auf mein Projekt konzentrieren will.
