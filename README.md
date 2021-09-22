@@ -11,9 +11,10 @@ Da ich in meinem Zahleratespiel Mühe mit `try` `catch` hatte, werde ich Ihnen e
    3. Der Leser lernt, wie man mit `try` `catch` den Benutzer hinweisen kann, dass es einen Fehler in der Eingabe gab.
 
 
-#Vorteil von `try` `catch`:
+Vorteil von `try` `catch`:
 
-Mit `try``catch` fängt das Programm den Fehler der Benutzereingabe sanft auf. 
+Mit `try` `catch` fängt das Programm den Fehler der Benutzereingabe sanft auf. 
+
 
 
 Für was benutzt man `try` `catch`?
@@ -62,6 +63,10 @@ while (!(userguess=randomnumber))
       }
 }
 ```
+#Video
+Hier zeige ich ein Video vom Durchlauf vom meinem Spiel:
+
+
 
 #Verifikation
 
