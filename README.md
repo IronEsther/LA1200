@@ -70,7 +70,7 @@ https://youtu.be/YvBJP5Vk1Ps
 
 #Verifikation
 
-Ziel 1: Im ersten und im letzten Code-Block wird die Verwendung von `try``catch` gezeigt
+Ziel 1: Im ersten und im letzten Code-Block wird die Verwendung von `try` `catch` gezeigt
 Ziel 2: Nach den Zielen der Vorteil, die Nutzung und ein Beispiel gezeigt.
 Ziel 3: Im Code nach den Zielen wird ein Code gezeigt, der erklärt, wie man den Benutzer über den Fehler informiert.
 
