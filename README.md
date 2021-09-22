@@ -13,7 +13,7 @@ Da ich in meinem Zahleratespiel Mühe mit `try` `catch` hatte, werde ich Ihnen e
 
 Vorteil von `try` `catch`:
 
-Mit `try` `catch` fängt das Programm den Fehler der Benutzereingabe sanft auf. 
+Mit `try` `catch` fängt das Programm den Fehler der Benutzereingabe sanft auf und das Programm stürzt deshalb nicht ab. 
 
 
 
